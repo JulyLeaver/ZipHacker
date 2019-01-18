@@ -8,6 +8,23 @@ public class Main {
 		(new Main()).run();
 	}
 
+	/*
+	qwer
+	asdf
+	1234
+	qwerasdf
+	qwer1234
+	asdfqwer
+	asdf1234
+	1234qwer
+	1234asdf
+	qwerasdf1234
+	qwer1234asdf
+	asdfqwer1234
+	asdf1234qwer
+	1234qwerasdf
+	1234asdfqwer
+	*/
 	final String[] passwd = new String[] { 
 			"qwer", "asdf", "1234" 
 			};
